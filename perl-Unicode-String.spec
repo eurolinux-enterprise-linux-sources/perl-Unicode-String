@@ -1,6 +1,6 @@
 Name:           perl-Unicode-String
 Version:        2.09
-Release:        27%{?dist}
+Release:        29%{?dist}
 
 Summary:        Perl modules to handle various Unicode issues
 
@@ -68,6 +68,12 @@ make test
 
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 2.09-29
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 2.09-28
+- Mass rebuild 2013-12-27
+
 * Tue Oct 30 2012 Jitka Plesnikova <jplesnik@redhat.com> - 2.09-27
 - Specify all dependencies
 
